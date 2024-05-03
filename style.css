@@ -162,7 +162,8 @@ body {
 }
 .info .card {
     background-color: rgba(255, 255, 255, 0.8) !important;
-    color:#7e1f9a !important;
+    color:black !important;
+    font-weight:bold;
     border: 2px solid #ff5ea4;
 }
 .info .car-header {
